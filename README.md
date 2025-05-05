@@ -21,7 +21,7 @@ I love blending creativity with technology—whether it’s developing interacti
 ##### 🔗LinkedIn: [LinkedIn](https://www.linkedin.com/in/ushasree-bayya)
 
 
-<h3 align="left">Languages and Tools:</h3>
+## <h3 align="left">Languages and Tools:</h3>
 
 **Programming Languages**:  HTML, CSS, JavaScript, Python, SQL
 
