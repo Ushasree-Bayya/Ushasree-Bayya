@@ -7,9 +7,18 @@ I'm Ushasree Bayya, a passionate AI Prompt Engineer and Front-End Developer with
 
 I love blending creativity with technology—whether it’s developing interactive websites, visual dashboards, or crafting powerful prompts for AI systems. I’m continuously upskilling in fields like Machine Learning and Data Analytics to stay ahead in the fast-evolving tech landscape.
 
+## 📂 Projects 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
 
-- 📫 How to reach me **bayyaushasree028@gmail.com**
+- - 🎧 **Animated Headphones Interface** – Built with CSS animations and modern UI effects.  
+- 🏠 **Personal Family Website** – A responsive family site with multimedia integration.  
+- 🗣️ **Smart Speaker UI** – Interactive speaker interface with hover effects and animation.  
+- 🛒 **Google Homepage Clone** – Pixel-perfect recreation using HTML/CSS.
+
+## 📫 How to Reach Me 
+
+📧 bayyaushasree028@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ushasree-bayya)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
