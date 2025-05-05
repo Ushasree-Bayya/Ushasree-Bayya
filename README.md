@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ushasree Bayya</h1> 
-  <h1 AI Enthusiast | Prompt Engineer | Front-End Developer</h1>
+  
 <h3 align="center">Empowering innovation through AI, data, and design-driven development</h3>
 
 ## 🧑‍💻 About Me  
-AI Enthusiast | Prompt Engineer | Front-End Developer  
-Skilled in creating responsive UIs, AI-driven solutions, and data visualizations. Passionate about merging creativity with technology to solve real-world problems.
+I'm Ushasree Bayya, a passionate AI Prompt Engineer and Front-End Developer with a background in Agricultural Engineering. With strong skills in Generative AI, Python, SQL, Power BI, HTML, CSS, JavaScript, and modern UI frameworks like Tailwind CSS, I focus on building user-centric, data-driven solutions.
+
+I love blending creativity with technology—whether it’s developing interactive websites, visual dashboards, or crafting powerful prompts for AI systems. I’m continuously upskilling in fields like Machine Learning and Data Analytics to stay ahead in the fast-evolving tech landscape.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
 
