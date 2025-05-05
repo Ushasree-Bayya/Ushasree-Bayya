@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ushasree Bayya</h1>
+<h1 AI Enthusiast | Prompt Engineer | Front-End Developer </h1>
 <h3 align="center">Empowering innovation through AI, data, and design-driven development</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
