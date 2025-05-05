@@ -17,8 +17,7 @@ I love blending creativity with technology—whether it’s developing interacti
 
 ## 📫 How to Reach Me 
 
-# 📧Email*: 
-bayyaushasree028@gmamil.com
+###  📧Email: bayyaushasree028@gmamil.com
 🔗LinkedIn: [LinkedIn](https://www.linkedin.com/in/ushasree-bayya)
 
 <h3 align="left">Connect with me:</h3>
