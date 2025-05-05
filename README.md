@@ -10,7 +10,7 @@ I love blending creativity with technology—whether it’s developing interacti
 ## 📂 Projects 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
 
-- - 🎧 **Animated Headphones Interface** – Built with CSS animations and modern UI effects.  
+-  🎧 **Animated Headphones Interface** – Built with CSS animations and modern UI effects.  
 - 🏠 **Personal Family Website** – A responsive family site with multimedia integration.  
 - 🗣️ **Smart Speaker UI** – Interactive speaker interface with hover effects and animation.  
 - 🛒 **Google Homepage Clone** – Pixel-perfect recreation using HTML/CSS.
