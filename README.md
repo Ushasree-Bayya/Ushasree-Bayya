@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ushasree Bayya</h1>
-<h1 AI Enthusiast | Prompt Engineer | Front-End Developer </h1>
+<h1 align="center">Hi 👋, I'm Ushasree Bayya br AI Enthusiast | Prompt Engineer | Front-End Developer</h1>
 <h3 align="center">Empowering innovation through AI, data, and design-driven development</h3>
+
+## 🧑‍💻 About Me  
+AI Enthusiast | Prompt Engineer | Front-End Developer  
+Skilled in creating responsive UIs, AI-driven solutions, and data visualizations. Passionate about merging creativity with technology to solve real-world problems.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
 
