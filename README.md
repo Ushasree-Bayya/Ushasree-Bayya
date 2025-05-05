@@ -7,7 +7,7 @@ I'm Ushasree Bayya, a passionate AI Prompt Engineer and Front-End Developer with
 
 I love blending creativity with technology—whether it’s developing interactive websites, visual dashboards, or crafting powerful prompts for AI systems. I’m continuously upskilling in fields like Machine Learning and Data Analytics to stay ahead in the fast-evolving tech landscape.
 
-![Coding](https://https://lottiefiles.com/free-animation/developer-skills-nMPhWyVkkl)
+![Coding](https://lottiefiles.com/free-animation/developer-skills-nMPhWyVkkl)
 
 ## 📂 Projects 
 - 👨‍💻 All of my projects are available at [https://github.com/Ushasree-Bayya](https://github.com/Ushasree-Bayya)
